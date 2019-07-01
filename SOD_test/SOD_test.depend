@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1561967109 source:d:\dropbox\dropbox\projects\programming\sod\sod_test\sod_src\sod.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+	<ctype.h>
+	<crtdbg.h>
+	<float.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	"sod.h"
+	<Windows.h>
+	<sys/types.h>
+	<limits.h>
+	<sys/time.h>
+	<time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/uio.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<dirent.h>
+	<utime.h>
+	"sod_img_reader.h"
+	"sod_img_writer.h"
+
+1561967109 d:\dropbox\dropbox\projects\programming\sod\sod_test\sod_src\sod.h
+	<opencv2/highgui/highgui_c.h>
+	<opencv2/imgproc/imgproc_c.h>
+
+1561967109 d:\dropbox\dropbox\projects\programming\sod\sod_test\sod_src\sod_img_reader.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1561967109 d:\dropbox\dropbox\projects\programming\sod\sod_test\sod_src\sod_img_writer.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1561969720 source:d:\dropbox\dropbox\projects\programming\sod\sod_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sod.h>
+
